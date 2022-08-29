@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg])
+[Image](https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg]) ![Image]([https://static.timesofisrael.com/www/uploads/2018/02/AP_17125344886020-e1518519835333.jpg])
 ```markdown
 Syntax highlighted code block
 
